@@ -1,4 +1,4 @@
-# Build a Single Screen App*
+# Build a Single Screen App
 **Udacity Course:** Android Basics Nanoodegree  
 *on: Jul 8, 2017*
 
